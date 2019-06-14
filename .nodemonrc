@@ -1,0 +1,12 @@
+{
+  "verbose": true,
+  "ignore": [
+    "client/**/*",
+    "build/**/*",
+    "test/**/*",
+    "public/**/*",
+    "dist/**/*",
+    "webpack/**/*",
+    "test.js"
+  ]
+}
